@@ -1,6 +1,6 @@
 I love watching the world around me burning and being consumed by the flames myself as well.
 
-I mostly code in Python and UnrealScript ([A Hat in Time](https://steamcommunity.com/profiles/76561198063502902/myworkshopfiles/?appid=253230)) and also a bit in Z80 Assembly ([Pokémon Red and Blue Russian Version](https://github.com/Shararamosh/pokered-ru)).
+I mostly code in Python and UnrealScript ([A Hat in Time mods](https://steamcommunity.com/profiles/76561198063502902/myworkshopfiles/?appid=253230)) and also a bit in Z80 Assembly ([Pokémon Red and Blue Russian Version](https://github.com/Shararamosh/pokered-ru)).
 
 Expect great things.
 <!--
